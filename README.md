@@ -1,7 +1,8 @@
 # Chat Application
 
+
 ## Overview
-This Chat application enables simple network-based text communication between multiple clients using a server-client architecture. Built with Python and utilizing sockets along with threading, the application supports multiple concurrent client connections, sending and receiving messages, and managing connections dynamically.
+This Chat application is a school project that enables simple network-based text communication between multiple clients using a server-client architecture. Built with Python and utilizing sockets along with threading, the application supports multiple concurrent client connections, sending and receiving messages, and managing connections dynamically.
 
 ## Features
 - **Listening for Incoming Connections**: The server listens on a specified port and accepts incoming client connections.
