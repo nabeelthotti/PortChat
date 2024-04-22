@@ -2,6 +2,7 @@ import sys
 import socket
 import threading
 
+#Chat Class
 class Chat:
 
     def __init__(self):
